@@ -1,0 +1,14 @@
+C:\Users\nazih\ConveyorBeltApp\bin\Debug\net8.0\ConveyorBeltApp.exe
+C:\Users\nazih\ConveyorBeltApp\bin\Debug\net8.0\ConveyorBeltApp.deps.json
+C:\Users\nazih\ConveyorBeltApp\bin\Debug\net8.0\ConveyorBeltApp.runtimeconfig.json
+C:\Users\nazih\ConveyorBeltApp\bin\Debug\net8.0\ConveyorBeltApp.dll
+C:\Users\nazih\ConveyorBeltApp\bin\Debug\net8.0\ConveyorBeltApp.pdb
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.AssemblyInfoInputs.cache
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.AssemblyInfo.cs
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.csproj.CoreCompileInputs.cache
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.dll
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\refint\ConveyorBeltApp.dll
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.pdb
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ConveyorBeltApp.genruntimeconfig.cache
+C:\Users\nazih\ConveyorBeltApp\obj\Debug\net8.0\ref\ConveyorBeltApp.dll
